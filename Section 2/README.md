@@ -1,8 +1,5 @@
 # Learning more about:
-- Let
-- Const
+- Spread Operator
+- Destructuring
 - Template Strings
-- Searching Strings
-- Symbols
-- Maps
-- Sets
+
