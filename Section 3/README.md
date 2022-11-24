@@ -1,8 +1,8 @@
 # Learning more about:
-- Let
-- Const
-- Template Strings
-- Searching Strings
-- Symbols
-- Maps
-- Sets
+- Object Literal Enhancement
+- Spread Operator
+- Destructuring
+- For/Of
+- Classes
+- Getters and Setters
+
