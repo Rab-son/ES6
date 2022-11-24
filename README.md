@@ -14,3 +14,6 @@ ECMAScropt6+
 - ES6 = 2015
 - ES 2020, 2021, etc
 - [ECMA-INTERNATIONAL](https://github.com/tc39 "ECMA-INTERNATIONAL")
+
+# Undestanding Browser Support
+- [Kangax](https://kangax.github.io/compat-table/es6/ "Kangax")
